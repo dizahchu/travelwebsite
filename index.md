@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html lang="en">
 
 <head>
   <meta charset="UTF-8">
@@ -334,8 +336,10 @@
                 <figure class="card-banner">
 
                   <a href="#">
-                    <img src="E:\Dizah\CSS\images\popular-1.jpg" width="740" height="518" loading="lazy">
-                      
+                    <img src="E:\Dizah\CSS\images\popular-1.jpg" width="740" height="518" loading="lazy"
+                       <!-- 
+    - #FOOTER
+  -->
 
   <footer class="footer" style="background-image: url('E:\Dizah\CSS\images\footer-bg.png')">
     <div class="container">
@@ -381,7 +385,10 @@
 
           </li>
          
-<li> <A HREF="PACKAGES.md">NEW DEALS</A> </li>
+<li> <A HREF="PACKAGES.html">NEW DEALS</A> </li>
            
-<li> <A HREF="THANKS1.md">THANK YOU </A> </li>
+<li> <A HREF="THANKS1.html">THANK YOU </A> </li>
         
+</body>
+
+</html>
