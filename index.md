@@ -23,7 +23,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link
-    href="css2=swap"
+    href="E:\Dizah\CSS\css2=swap"
  rel="stylesheet">
 </head>
  <main>
@@ -34,14 +34,14 @@
       -->
 
       <section class="section hero"
-        style="background-image: url('images\hero-bg-bottom.png') url('images\hero-bg-top.png')">
+        style="background-image: url('E:\Dizah\CSS\images\hero-bg-bottom.png') url('E:\Dizah\CSS\images\hero-bg-top.png')">
         <div class="container">
 
-          <img src="images\shape-1.png" width="61" height="61" alt="Vector Shape" class="shape shape-1">
+          <img src="E:\Dizah\CSS\images\shape-1.png" width="61" height="61" alt="Vector Shape" class="shape shape-1">
 
-          <img src="images\shape-2.png" width="56" height="74" alt="Vector Shape" class="shape shape-2">
+          <img src="E:\Dizah\CSS\images\shape-2.png" width="56" height="74" alt="Vector Shape" class="shape shape-2">
 
-          <img src="images\shape-3.png" width="57" height="72" alt="Vector Shape" class="shape shape-3">
+          <img src="E:\Dizah\CSS\images\shape-3.png" width="57" height="72" alt="Vector Shape" class="shape shape-3">
 
           <div class="hero-content">
 
@@ -55,13 +55,13 @@
 
             <div class="btn-group"> 
 
-              <A HREF = "ABOUT%20US%20PAR7.html">LEARN MORE </A>
+              <A HREF = "file:///C:/Users/hp/Downloads/ABOUT%20US%20PAR7.html">LEARN MORE </A>
             </div>
 
    </div>
 
           <figure class="hero-banner">
-            <img src="images\hero-banner.png" width="686" height="812" loading="lazy" alt="hero banner"
+            <img src="E:\Dizah\CSS\images\hero-banner.png" width="686" height="812" loading="lazy" alt="hero banner"
               class="w-100">
           </figure>
 
@@ -89,7 +89,7 @@
                <ahref="file:///C:/Users/hp/Downloads/Documen21t.html" class="destination-card">
 
                 <figure class="card-banner">
-                  <img src="images\destination-1.jpg" width="1140" height="1100" loading="lazy"
+                  <img src="E:\Dizah\CSS\images\destination-1.jpg" width="1140" height="1100" loading="lazy"
                     alt="MalÃ©, Maldives" class="img-cover">
                 </figure>
 
@@ -106,7 +106,7 @@
               <p>thailand</p>
 
                 <figure class="card-banner">
-                  <img src="images\destination-2.jpg" width="1140" height="1100" loading="lazy"
+                  <img src="E:\Dizah\CSS\images\destination-2.jpg" width="1140" height="1100" loading="lazy"
                     alt="Bangkok, Thailand" class="img-cover">
                 </figure>
 
@@ -123,7 +123,7 @@
                
 
                 <figure class="card-banner">
-                  <img src="images\destination-3.jpg" width="1110" height="480" loading="lazy"
+                  <img src="E:\Dizah\CSS\images\destination-3.jpg" width="1110" height="480" loading="lazy"
                     alt="Kuala Lumpur, Malaysia" class="img-cover">
                 </figure>
 
@@ -140,7 +140,7 @@
                
 
                 <figure class="card-banner">
-                  <img src="images\destination-4.jpg" width="1110" height="480" loading="lazy"
+                  <img src="E:\Dizah\CSS\images\destination-4.jpg" width="1110" height="480" loading="lazy"
                     alt="Kathmandu, Nepal" class="img-cover">
                 </figure>
 
@@ -157,7 +157,7 @@
              
 
                 <figure class="card-banner">
-                  <img src="images\destination-5.jpg" width="1110" height="480" loading="lazy"
+                  <img src="E:\Dizah\CSS\images\destination-5.jpg" width="1110" height="480" loading="lazy"
                     alt="Jakarta, Indonesia" class="img-cover">
                 </figure>
 
@@ -197,7 +197,7 @@
 
                 <figure class="card-banner">
                   <a href="#">
-                    <img src="images\popular-1.jpg" width="740" height="518" loading="lazy"
+                    <img src="E:\Dizah\CSS\images\popular-1.jpg" width="740" height="518" loading="lazy"
                       alt="Kuala Lumpur, Malaysia" class="img-cover">
                   </a>
 
@@ -240,7 +240,7 @@
 
                 <figure class="card-banner">
                   <a href="#">
-                    <img src="images\popular-2.jpg" width="740" height="518" loading="lazy"
+                    <img src="E:\Dizah\CSS\images\popular-2.jpg" width="740" height="518" loading="lazy"
                       alt="Kuala Lumpur, Malaysia" class="img-cover">
                   </a>
 
@@ -336,12 +336,12 @@
                 <figure class="card-banner">
 
                   <a href="#">
-                    <img src="images\popular-1.jpg" width="740" height="518" loading="lazy"
+                    <img src="E:\Dizah\CSS\images\popular-1.jpg" width="740" height="518" loading="lazy"
                        <!-- 
     - #FOOTER
   -->
 
-  <footer class="footer" style="background-image: url('images\footer-bg.png')">
+  <footer class="footer" style="background-image: url('E:\Dizah\CSS\images\footer-bg.png')">
     <div class="container">
 
       <div class="footer-top">
@@ -387,7 +387,7 @@
          
 <li> <A HREF="PACKAGES.html">NEW DEALS</A> </li>
            
-<li> <A HREF="THANKS1.html">THANK YOU </A> </li>
+<li> <A HREF="file:///THANKS1.html">THANK YOU </A> </li>
         
 </body>
 
