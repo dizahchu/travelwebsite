@@ -55,7 +55,7 @@
 
             <div class="btn-group"> 
 
-              <A HREF = "file:///C:/Users/hp/Downloads/ABOUT%20US%20PAR7.html">LEARN MORE </A>
+              <A HREF = "ABOUT%20US%20PAR7.html">LEARN MORE </A>
             </div>
 
    </div>
