@@ -90,7 +90,7 @@
 
                 <figure class="card-banner">
                   <img src="images\destination-1.jpg" width="1140" height="1100" loading="lazy"
-                    alt="Malé, Maldives" class="img-cover">
+                    alt="MalÃ©, Maldives" class="img-cover">
                 </figure>
 
                 <div class="card-content">
@@ -352,7 +352,7 @@
             <p class="footer-list-title">Top destination</p>
           </li>
 
-          <li>Maldives, Mal�
+          <li>Maldives, Malé
               
           </li>
 
